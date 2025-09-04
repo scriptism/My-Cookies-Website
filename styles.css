@@ -6,6 +6,9 @@ body {
   font-family: "Segoe UI", Arial, sans-serif;
   margin: 0;
   padding: 20px;
+  max-width: 100vw;
+  max-height: 100vh;
+  overflow-x: hidden;
 }
 
 /* 2. remove the 100vh trap and give breathing room */
@@ -28,12 +31,14 @@ main {
 
 /* 4. recipe list as a clean flex grid */
 .container ul {
+  background-color: #bad5f1;
   list-style: none;
   margin: 0;
-  padding: 0;
+  padding: 20px;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
   gap: 25px;
+  border-radius: 20px;
 }
 
 .container li {
@@ -73,7 +78,21 @@ p {
   font-size: 16px;
   line-height: 1.5;
 }
+.btn {
+  background-color: #38a169;
+  color: white;
+  max-width: 320px;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
 
+.btn:hover {
+  background-color: #2f855a;
+  transform: translateY(-2px);
+}
 /* 7. footer polish */
 footer {
   text-align: center;
