@@ -93,6 +93,18 @@ p {
   background-color: #2f855a;
   transform: translateY(-2px);
 }
+
+.refresh {
+  display: none;
+  background-color: #3182ce;
+  color: white;
+  max-width: 320px;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
 /* 7. footer polish */
 footer {
   text-align: center;
