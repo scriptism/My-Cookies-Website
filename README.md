@@ -4,8 +4,6 @@
 
 A simple, static website that showcases popular sweet recipes and highlights the premium European grains used in every cookie and confection.
 
----
-
 ## 🧁 What You’ll Find
 
 - Hand-picked recipes for cookies and sweets from around the world
