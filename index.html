@@ -3,50 +3,28 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>My Cookie Website</title>
+    <title>Nottuln Confictionary – World of Cookies</title>
     <link rel="stylesheet" href="styles.css" />
     <script src="script.js" defer></script>
   </head>
   <body>
     <main>
       <header>
-        <h1>Welcome to Nottuln Confictionary Website</h1>
+        <h1>Welcome to Nottuln Confictionary</h1>
+        <p>
+          Here you can find delicious recipes for different sweets. We
+          manufacture our cookies from grains that come from the best European
+          fields.
+        </p>
       </header>
-      <p>
-        Here you can find delicious recipes for different sweets. We manufacture
-        our sweets and cookies from grains that come from the best European
-        fields.
-      </p>
-      <div class="container">
+
+      <section class="container">
         <h2>Popular Recipes</h2>
-
-        <ul>
-          <li>
-            Indian Mitaes 🏁
-            <img class="img" src="images/1.jpg" alt="image-1" />
-          </li>
-          <li>
-            Afghgan Shirini 🏳
-            <img class="img" src="images/2.jpg" alt="image-2" />
-          </li>
-          <li>
-            Sweetballs 🎂
-            <img class="img" src="images/3.webp" alt="image-3" />
-          </li>
-          <li>
-            Snickerdoodles 🍪
-            <img class="img" src="images/Snickerdoodles.jpeg" alt="image-4" />
-          </li>
-
-          <li>
-            Donuts 🍩
-            <img class="img" src="images/donuts.jpg" alt="image-3" />
-          </li>
+        <ul id="cookie-list">
+          <!-- populated by JS -->
         </ul>
-        <button class="btn">Click for More</button>
-        <button class="refresh">Refresh</button>
-        <button class="refresh">new</button>
-      </div>
+        <button id="load-btn" class="btn">Load more</button>
+      </section>
 
       <footer>
         <p>&copy; scriptism 2025 | Cookies</p>

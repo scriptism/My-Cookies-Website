@@ -1,0 +1,370 @@
+[
+  {
+    "id": 1,
+    "name": "Kolcha-e-Khatayi",
+    "country": "Afghanistan",
+    "description": "Cardamom-almond cookie with a crisp shell and soft centre, baked for celebrations.",
+    "img": "img/kolcha-khatayi.avif",
+    "recipe": "Flour, sugar, butter, cardamom, ground almonds; shape and bake at 180 °C until golden."
+  },
+  {
+    "id": 2,
+    "name": "Afghan Jalebi",
+    "country": "Afghanistan",
+    "description": "Crisp saffron-rose-water fritter soaked in fragrant sugar syrup.",
+    "img": "img/afghan-jalebi.jpg",
+    "recipe": "Yeast batter piped into hot oil, fried till golden, then dunked in cardamom-saffron syrup."
+  },
+  {
+    "id": 3,
+    "name": "Ghorabiye",
+    "country": "Iran",
+    "description": "Iranian almond macaroon, light and chewy, topped with a pistachio sliver.",
+    "img": "img/ghorabiye.jpeg",
+    "recipe": "Almond flour, egg white, sugar, vanilla; bake low and slow."
+  },
+  {
+    "id": 4,
+    "name": "Reshteh Khoshkar",
+    "country": "Iran",
+    "description": "Crispy deep-fried ribbon shaped from rice-flour dough scented with cardamom & cinnamon.",
+    "img": "img/reshteh-khoshkar.webp",
+    "recipe": "Rice flour, sugar, spices, walnut; press in mould, fry, dust with icing sugar."
+  },
+  {
+    "id": 5,
+    "name": "Nan-e Berenji",
+    "country": "Iran",
+    "description": "Delicate rice-flour cookie flavoured with rose water and poppy seeds.",
+    "img": "img/nan-berenji.jpg",
+    "recipe": "Rice flour, butter, sugar, rose water; chill dough, stamp with mould, bake."
+  },
+  {
+    "id": 6,
+    "name": "Biscotti di Prato",
+    "country": "Italy",
+    "description": "Twice-baked almond oblongs meant for dunking in Vin Santo.",
+    "img": "img/biscotti-prato.jpg",
+    "recipe": "Flour, sugar, eggs, almonds; bake loaf, slice, bake again until dry."
+  },
+  {
+    "id": 7,
+    "name": "Amaretti di Saronno",
+    "country": "Italy",
+    "description": "Crisp-chewy macaroon with a bitter-almond perfume, wrapped in colourful paper.",
+    "img": "img/amaretti-saronno.jpeg",
+    "recipe": "Apricot-kernel flour, egg white, sugar; pipe small mounds, dust with icing sugar, bake."
+  },
+  {
+    "id": 8,
+    "name": "Baci di Dama",
+    "country": "Italy",
+    "description": "Piedmont hazelnut sandwich cookies glued with dark-chocolate ganache.",
+    "img": "img/baci-dama.webp",
+    "recipe": "Roasted hazelnuts, butter, flour, sugar; bake hemispheres, join with chocolate."
+  },
+  {
+    "id": 9,
+    "name": "Ricciarelli",
+    "country": "Italy",
+    "description": "Soft almond paste biscuit from Siena, crackled surface dusted with snowy icing sugar.",
+    "img": "img/ricciarelli.jpg",
+    "recipe": "Almond meal, egg white, honey, orange zest; rest dough overnight, bake at 160 °C."
+  },
+  {
+    "id": 10,
+    "name": "Pizzelle",
+    "country": "Italy",
+    "description": "Waffle-pattern wafer flavoured with anise or vanilla, made on a hot iron.",
+    "img": "img/pizzelle.jpg",
+    "recipe": "Eggs, sugar, flour, butter, anise; ladle onto pizzelle iron, cook 30 s."
+  },
+  {
+    "id": 11,
+    "name": "Macaron",
+    "country": "France",
+    "description": "Colourful meringue sandwich with ganache or butter-cream filling.",
+    "img": "img/macaron.jpg",
+    "recipe": "Aged egg whites, almond flour, icing sugar; macaronage, pipe, rest, bake, fill."
+  },
+  {
+    "id": 12,
+    "name": "Sablé",
+    "country": "France",
+    "description": "Buttery shortbread from Normandy with a sandy, melt-in-mouth texture.",
+    "img": "img/sable.jpg",
+    "recipe": "Flour, butter, sugar, egg yolk; roll, cut, bake 12 min at 170 °C."
+  },
+  {
+    "id": 13,
+    "name": "Palets Bretons",
+    "country": "France",
+    "description": "Thick salted-butter biscuit, golden and crumbly.",
+    "img": "img/palets-bretons.jpg",
+    "recipe": "Flour, salted butter, sugar, egg yolk, baking powder; refrigerate, cut rounds, bake."
+  },
+  {
+    "id": 14,
+    "name": "Financier",
+    "country": "France",
+    "description": "Small rectangular almond cake cookie, moist inside, crisp edges.",
+    "img": "img/financier.jpg",
+    "recipe": "Beurre noisette, almond flour, icing sugar, egg whites, flour; bake in rectangular moulds."
+  },
+  {
+    "id": 15,
+    "name": "Langues de Chat",
+    "country": "France",
+    "description": "Thin, crisp cat-tongue shaped biscuits perfect with tea or ice-cream.",
+    "img": "img/langues-chat.jpg",
+    "recipe": "Butter, sugar, egg whites, flour; pipe 8 cm strips, bake pale gold."
+  },
+  {
+    "id": 16,
+    "name": "Petit Beurre",
+    "country": "France",
+    "description": "The famous scallop-edged butter biscuit from Nantes, stamped with the hour 18:00.",
+    "img": "img/petit-beurre.jpg",
+    "recipe": "Flour, sugar, butter, milk, baking powder; dock, chill, bake."
+  },
+  {
+    "id": 17,
+    "name": "Speculoos",
+    "country": "Belgium/France",
+    "description": "Spiced caramelised shortcrust traditionally served with coffee.",
+    "img": "img/speculoos.jpg",
+    "recipe": "Flour, brown sugar, butter, cinnamon, cloves; roll thin, stamp windmill, bake."
+  },
+  {
+    "id": 18,
+    "name": "Madeleine",
+    "country": "France",
+    "description": "Shell-shaped sponge cake-cookie, light with browned butter note.",
+    "img": "img/madeleine.jpg",
+    "recipe": "Eggs, sugar, flour, browned butter, lemon zest; rest batter, pipe shell mould, bake."
+  },
+  {
+    "id": 19,
+    "name": "Anzac Biscuit",
+    "country": "Australia/New Zealand",
+    "description": "Chewy oat-coconut biscuit originally sent to ANZAC soldiers.",
+    "img": "img/anzac.jpg",
+    "recipe": "Rolled oats, flour, coconut, golden syrup, butter, bicarb; bake 15 min."
+  },
+  {
+    "id": 20,
+    "name": "Chocolate-Chip Cookie",
+    "country": "United States",
+    "description": "Classic drop cookie studded with semi-sweet chocolate chips.",
+    "img": "img/choc-chip.jpg",
+    "recipe": "Cream butter & sugars, add eggs, vanilla, flour, chips; scoop, bake 10-12 min."
+  },
+  {
+    "id": 21,
+    "name": "Snickerdoodle",
+    "country": "United States",
+    "description": "Soft sugar cookie rolled in cinnamon-sugar before baking.",
+    "img": "img/snickerdoodle.jpg",
+    "recipe": "Butter, sugar, eggs, flour, cream of tartar; roll in cinnamon sugar, bake."
+  },
+  {
+    "id": 22,
+    "name": "Peanut-Butter Blossom",
+    "country": "United States",
+    "description": "Peanut-butter cookie topped with a Hershey’s Kiss pressed in while warm.",
+    "img": "img/pb-blossom.jpg",
+    "recipe": "PB, sugar, egg, flour; bake, press kiss, cool."
+  },
+  {
+    "id": 23,
+    "name": "Shortbread",
+    "country": "Scotland",
+    "description": "Rich buttery biscuit made of just sugar, butter, flour in 1:2:3 ratio.",
+    "img": "img/shortbread.jpg",
+    "recipe": "Cream butter & sugar, add flour, pat into tin, bake low 30 min, cut while warm."
+  },
+  {
+    "id": 24,
+    "name": "Gingerbread Man",
+    "country": "Europe",
+    "description": "Spiced molasses cookie cut into human shapes and decorated.",
+    "img": "img/gingerbread-man.jpg",
+    "recipe": "Flour, butter, brown sugar, molasses, ginger, cloves; chill, cut, bake, pipe icing."
+  },
+  {
+    "id": 25,
+    "name": "Bourbon Cream",
+    "country": "United Kingdom",
+    "description": "Oblong chocolate sandwich biscuit with chocolate fondant filling.",
+    "img": "img/bourbon.jpg",
+    "recipe": "Cocoa biscuit dough, cut rectangles, bake, sandwich with fondant."
+  },
+  {
+    "id": 26,
+    "name": "Digestive",
+    "country": "United Kingdom",
+    "description": "Semi-sweet wholemeal biscuit, good with cheese or chocolate coating.",
+    "img": "img/digestive.jpg",
+    "recipe": "Whole-wheat flour, butter, sugar, malt extract, baking soda; dock, bake."
+  },
+  {
+    "id": 27,
+    "name": "Hobnob",
+    "country": "United Kingdom",
+    "description": "Oaty crunchy biscuit often half-dipped in chocolate.",
+    "img": "img/hobnob.jpg",
+    "recipe": "Rolled oats, flour, butter, golden syrup; rough texture, bake till golden."
+  },
+  {
+    "id": 28,
+    "name": "Jammie Dodger",
+    "country": "United Kingdom",
+    "description": "Shortbread sandwich with a sticky raspberry jam centre and heart cut-out.",
+    "img": "img/jammie-dodger.jpg",
+    "recipe": "Cut two rounds, stamp hole in one, bake, glue with jam, dust with sugar."
+  },
+  {
+    "id": 29,
+    "name": "Florentine",
+    "country": "Italy/France",
+    "description": "Thin disc of caramelised nuts & fruit, back-coated with chocolate.",
+    "img": "img/florentine.jpg",
+    "recipe": "Almonds, candied peel, honey, cream; cook, spread, cut circles, coat bottom with chocolate."
+  },
+  {
+    "id": 30,
+    "name": "Cavallucci",
+    "country": "Italy",
+    "description": "Chewy Tuscan cookie with honey, anise, coriander, candied fruit.",
+    "img": "img/cavallucci.jpg",
+    "recipe": "Melt honey & sugar, add spices, nuts, flour; shape balls, bake low."
+  },
+  {
+    "id": 31,
+    "name": "Brutti-ma-Buoni",
+    "country": "Italy",
+    "description": "Meringue-hazelnut drops, crispy outside, soft inside – ‘ugly but good’.",
+    "img": "img/brutti-buoni.jpg",
+    "recipe": "Hazelnuts, egg white, sugar; pipe small mounds, bake 30 min at 160 °C."
+  },
+  {
+    "id": 32,
+    "name": "Cantucci",
+    "country": "Italy",
+    "description": "Variant of biscotti with whole almonds, traditionally dunked in Vin Santo.",
+    "img": "img/cantucci.jpg",
+    "recipe": "Same as biscotti but with whole almonds, sliced thicker."
+  },
+  {
+    "id": 33,
+    "name": "Ghoriba",
+    "country": "Maghreb",
+    "description": "Soft round semolina cookie with generous butter and orange-blossom notes.",
+    "img": "img/ghoriba.jpg",
+    "recipe": "Semolina, butter, sugar, orange water; rest dough, shape, press thumb, bake."
+  },
+  {
+    "id": 34,
+    "name": "Ma‘amoul",
+    "country": "Levant",
+    "description": "Short-pastry filled with dates or nuts, moulded into decorative shapes.",
+    "img": "img/maamoul.jpg",
+    "recipe": "Semolina dough, butter, mahleb; fill with date paste, press into wooden mould, bake, dust."
+  },
+  {
+    "id": 35,
+    "name": "Kourabiedes",
+    "country": "Greece",
+    "description": "Buttery almond shortbread crescents buried under a snowdrift of icing sugar.",
+    "img": "img/kourabiedes.jpg",
+    "recipe": "Butter, flour, roasted almonds, ouzo; bake, cool, roll in icing sugar."
+  },
+  {
+    "id": 36,
+    "name": "Melomakarona",
+    "country": "Greece",
+    "description": "Spiced honey cookie soaked in syrup and topped with walnuts.",
+    "img": "img/melomakarona.jpg",
+    "recipe": "Flour, oil, orange zest, cinnamon; bake, drench in honey syrup, sprinkle nuts."
+  },
+  {
+    "id": 37,
+    "name": "Alfajor",
+    "country": "South America",
+    "description": "Two soft biscuits glued with dulce de leche and rolled in coconut.",
+    "img": "img/alfajor.jpg",
+    "recipe": "Corn-starch shortbread, sandwich with DDL, coat desiccated coconut."
+  },
+  {
+    "id": 42,
+    "name": "Polvorón",
+    "country": "Spain",
+    "description": "Crumbly lard-and-almond shortbread traditionally eaten at Christmas.",
+    "img": "img/polvoron.jpg",
+    "recipe": "Flour toasted dry, pork lard, icing sugar, ground almonds; wrap in paper, press, bake."
+  },
+  {
+    "id": 43,
+    "name": "Pfeffernüsse",
+    "country": "Germany",
+    "description": "Small round spice cookies glazed with sugar, heavy on cloves and white pepper.",
+    "img": "img/pfeffernuesse.jpg",
+    "recipe": "Flour, honey, anise, cinnamon, pepper, nuts; chill, roll balls, bake, glaze."
+  },
+  {
+    "id": 44,
+    "name": "Lebkuchen",
+    "country": "Germany",
+    "description": "Soft gingerbread-like cookie with nuts, candied citrus, often iced.",
+    "img": "img/lebkuchen.jpg",
+    "recipe": "Honey dough, rye flour, almonds, orange peel; bake on oblaten, brush sugar glaze."
+  },
+  {
+    "id": 45,
+    "name": "Speculaas",
+    "country": "Netherlands",
+    "description": "Windmill-shaped caramel cookie fragrant with cinnamon, cloves, nutmeg.",
+    "img": "img/speculaas.jpg",
+    "recipe": "Brown sugar, butter, speculaas spice; press into mould, bake till browned."
+  },
+  {
+    "id": 46,
+    "name": "Stroopwafel",
+    "country": "Netherlands",
+    "description": "Thin wafer cookie sliced and sandwiched with treacly caramel syrup.",
+    "img": "img/stroopwafel.jpg",
+    "recipe": "Yeast waffle batter, bake thin, slice hot, spread caramel, press together."
+  },
+  {
+    "id": 47,
+    "name": "Basler Läckerli",
+    "country": "Switzerland",
+    "description": "Hard honey-almond-citrus bar cookie glazed with sugar, Basel specialty.",
+    "img": "img/laekerli.jpg",
+    "recipe": "Honey, sugar, almonds, candied peel, Kirsch; roll, cut while hot, glaze."
+  },
+  {
+    "id": 48,
+    "name": "Vanillekipferl",
+    "country": "Austria",
+    "description": "Crescent-shaped vanilla shortbread rolled in vanilla sugar while warm.",
+    "img": "img/vanillekipferl.jpg",
+    "recipe": "Ground hazelnuts, flour, butter, vanilla sugar; shape crescents, bake, coat."
+  },
+  {
+    "id": 49,
+    "name": "Lusikkaleivät",
+    "country": "Finland",
+    "description": "Spoon-shaped oat cookies sandwiched with berry jam and dipped in sugar.",
+    "img": "img/lusikkaleivat.jpg",
+    "recipe": "Press soft dough into spoon, bake, join with jam, roll in sugar."
+  },
+  {
+    "id": 50,
+    "name": "Berliner Brot",
+    "country": "Germany",
+    "description": "Chocolate-glazed spiced shortbread with crunchy sugar nibs on top.",
+    "img": "img/berliner-brot.jpg",
+    "recipe": "Flour, butter, sugar, cinnamon, cloves; cut rectangles, bake, coat chocolate, sprinkle nib sugar."
+  }
+]

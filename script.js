@@ -1,23 +1,55 @@
-const button = document.querySelector(".btn");
-const container = document.querySelector(".container ul");
-const h2 = document.querySelector(".container h2");
-const h1 = document.querySelector("h1");
-const p = document.querySelector("p");
-const refresh = document.querySelector(".refresh");
+const list = document.getElementById("cookie-list");
+const loadBtn = document.getElementById("load-btn");
+const BATCH = 6; // how many to add each click
+let currentIdx = 0; // how many already rendered
+let allCookies = []; // full JSON array
 
-button.addEventListener("click", () => {
-  container.style.backgroundColor = "red";
-  button.style.backgroundColor = "blue";
-  h1.textContent = "Work in Progress...";
-  h1.style.color = "red";
-  h1.style.textDecoration = "underline";
-  h2.textContent = "More Coming Soon!";
-  h2.style.color = "blue";
-  p.style.display = "none";
-  refresh.style.display = "block";
-  button.style.display = "none";
-});
+/* first grab the data */
+fetch("cookies.json")
+  .then((r) => r.json())
+  .then((data) => {
+    allCookies = data;
+    renderBatch(); // first load
+  })
+  .catch((err) => console.error(err));
 
-refresh.addEventListener("click", () => {
-  location.reload();
+/* create one <li> */
+function makeCard(cookie) {
+  const li = document.createElement("li");
+  li.innerHTML = `
+    <h3>${cookie.name}</h3>
+    <span class="flag">${cookie.country}</span>
+    <img src="${cookie.img}" alt="${cookie.name}" loading="lazy">
+    <p>${cookie.description}</p>
+  `;
+  return li;
+}
+
+/* add next batch */
+function renderBatch() {
+  const end = Math.min(currentIdx + BATCH, allCookies.length);
+  const fragment = document.createDocumentFragment();
+  for (; currentIdx < end; currentIdx++) {
+    fragment.appendChild(makeCard(allCookies[currentIdx]));
+  }
+  list.appendChild(fragment);
+
+  /* toggle button text / hide if nothing left */
+  if (currentIdx >= allCookies.length) {
+    loadBtn.textContent = "Show fewer";
+  } else {
+    loadBtn.textContent = "Load more";
+  }
+}
+
+/* button behaviour */
+loadBtn.addEventListener("click", () => {
+  if (currentIdx >= allCookies.length) {
+    // already full → reset
+    list.innerHTML = "";
+    currentIdx = 0;
+    renderBatch();
+  } else {
+    renderBatch();
+  }
 });
