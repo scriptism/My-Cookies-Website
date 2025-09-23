@@ -156,7 +156,7 @@
     "name": "Chocolate-Chip Cookie",
     "country": "United States",
     "description": "Classic drop cookie studded with semi-sweet chocolate chips.",
-    "img": "img/choc-chip.jpg",
+    "img": "img/choc-chip.avif",
     "recipe": "Cream butter & sugars, add eggs, vanilla, flour, chips; scoop, bake 10-12 min."
   },
   {
@@ -164,7 +164,7 @@
     "name": "Snickerdoodle",
     "country": "United States",
     "description": "Soft sugar cookie rolled in cinnamon-sugar before baking.",
-    "img": "img/snickerdoodle.jpg",
+    "img": "img/snickerdoodle.jpeg",
     "recipe": "Butter, sugar, eggs, flour, cream of tartar; roll in cinnamon sugar, bake."
   },
   {
