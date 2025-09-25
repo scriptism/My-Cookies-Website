@@ -366,5 +366,21 @@
     "description": "Chocolate-glazed spiced shortbread with crunchy sugar nibs on top.",
     "img": "img/berliner-brot.jpg",
     "recipe": "Flour, butter, sugar, cinnamon, cloves; cut rectangles, bake, coat chocolate, sprinkle nib sugar."
+  },
+  {
+    "id": 51,
+    "name": "Mitaee",
+    "country": "India",
+    "description": "??Chocolate-glazed spiced shortbread with crunchy sugar nibs on top.",
+    "img": "img/mitaee.jpg",
+    "recipe": "??Flour, butter, sugar, cinnamon, cloves; cut rectangles, bake, coat chocolate, sprinkle nib sugar."
+  },
+  {
+    "id": 52,
+    "name": "Shir-parre",
+    "country": "Afghanistan",
+    "description": "??Chocolate-glazed spiced shortbread with crunchy sugar nibs on top.",
+    "img": "img/shir-parre.jpg",
+    "recipe": "??Flour, butter, sugar, cinnamon, cloves; cut rectangles, bake, coat chocolate, sprinkle nib sugar."
   }
 ]
