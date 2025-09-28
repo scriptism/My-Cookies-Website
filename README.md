@@ -1,6 +1,6 @@
 # Learn to use git
 
-# 🍪 Nottuln Confictionary Website
+# 🍪 Confictionary Website
 
 A simple, static website that showcases popular sweet recipes and highlights the premium European grains used in every cookie and confection.
 
