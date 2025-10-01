@@ -324,7 +324,7 @@
     "name": "Speculaas",
     "country": "Netherlands",
     "description": "Windmill-shaped caramel cookie fragrant with cinnamon, cloves, nutmeg.",
-    "img": "img/speculaas.jpg",
+    "img": "img/speculaas.png",
     "recipe": "Brown sugar, butter, speculaas spice; press into mould, bake till browned."
   },
   {
@@ -332,7 +332,7 @@
     "name": "Stroopwafel",
     "country": "Netherlands",
     "description": "Thin wafer cookie sliced and sandwiched with treacly caramel syrup.",
-    "img": "img/stroopwafel.jpg",
+    "img": "img/stroopwafel.webp",
     "recipe": "Yeast waffle batter, bake thin, slice hot, spread caramel, press together."
   },
   {
