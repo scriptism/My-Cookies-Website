@@ -212,7 +212,7 @@
     "name": "Hobnob",
     "country": "United Kingdom",
     "description": "Oaty crunchy biscuit often half-dipped in chocolate.",
-    "img": "img/hobnob.jpg",
+    "img": "img/hobnob.jpeg",
     "recipe": "Rolled oats, flour, butter, golden syrup; rough texture, bake till golden."
   },
   {
@@ -244,7 +244,7 @@
     "name": "Brutti-ma-Buoni",
     "country": "Italy",
     "description": "Meringue-hazelnut drops, crispy outside, soft inside – ‘ugly but good’.",
-    "img": "img/brutti-buoni.jpg",
+    "img": "img/brutti-buoni.avif",
     "recipe": "Hazelnuts, egg white, sugar; pipe small mounds, bake 30 min at 160 °C."
   },
   {
@@ -276,7 +276,7 @@
     "name": "Kourabiedes",
     "country": "Greece",
     "description": "Buttery almond shortbread crescents buried under a snowdrift of icing sugar.",
-    "img": "img/kourabiedes.jpg",
+    "img": "img/kourabiedes.webp",
     "recipe": "Butter, flour, roasted almonds, ouzo; bake, cool, roll in icing sugar."
   },
   {
@@ -284,7 +284,7 @@
     "name": "Melomakarona",
     "country": "Greece",
     "description": "Spiced honey cookie soaked in syrup and topped with walnuts.",
-    "img": "img/melomakarona.jpg",
+    "img": "img/melomakarona.jpeg",
     "recipe": "Flour, oil, orange zest, cinnamon; bake, drench in honey syrup, sprinkle nuts."
   },
   {
@@ -292,7 +292,7 @@
     "name": "Alfajor",
     "country": "South America",
     "description": "Two soft biscuits glued with dulce de leche and rolled in coconut.",
-    "img": "img/alfajor.jpg",
+    "img": "img/alfajor.jpeg",
     "recipe": "Corn-starch shortbread, sandwich with DDL, coat desiccated coconut."
   },
   {
@@ -308,7 +308,7 @@
     "name": "Pfeffernüsse",
     "country": "Germany",
     "description": "Small round spice cookies glazed with sugar, heavy on cloves and white pepper.",
-    "img": "img/pfeffernuesse.jpg",
+    "img": "img/pfeffernuesse.jpeg",
     "recipe": "Flour, honey, anise, cinnamon, pepper, nuts; chill, roll balls, bake, glaze."
   },
   {
@@ -332,7 +332,7 @@
     "name": "Stroopwafel",
     "country": "Netherlands",
     "description": "Thin wafer cookie sliced and sandwiched with treacly caramel syrup.",
-    "img": "img/stroopwafel.webp",
+    "img": "img/stroopwafel.gpeg",
     "recipe": "Yeast waffle batter, bake thin, slice hot, spread caramel, press together."
   },
   {
