@@ -332,7 +332,7 @@
     "name": "Stroopwafel",
     "country": "Netherlands",
     "description": "Thin wafer cookie sliced and sandwiched with treacly caramel syrup.",
-    "img": "img/stroopwafel.gpeg",
+    "img": "img/stroopwafel.jpg",
     "recipe": "Yeast waffle batter, bake thin, slice hot, spread caramel, press together."
   },
   {
@@ -381,6 +381,14 @@
     "country": "Afghanistan",
     "description": "??Chocolate-glazed spiced shortbread with crunchy sugar nibs on top.",
     "img": "img/shir-parre.jpg",
+    "recipe": "??Flour, butter, sugar, cinnamon, cloves; cut rectangles, bake, coat chocolate, sprinkle nib sugar."
+  },
+  {
+    "id": 53,
+    "name": "Halwa",
+    "country": "Afghanistan",
+    "description": "??Chocolate-glazed spiced shortbread with crunchy sugar nibs on top.",
+    "img": "img/halwa.avif",
     "recipe": "??Flour, butter, sugar, cinnamon, cloves; cut rectangles, bake, coat chocolate, sprinkle nib sugar."
   }
 ]
