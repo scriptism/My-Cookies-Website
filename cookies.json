@@ -390,5 +390,13 @@
     "description": "Browned flour in oil four 15 minutes, then add suger that is desolved in water.",
     "img": "img/halwa.avif",
     "recipe": "??Flour, sugar, cinnamon, oil"
+  },
+  {
+    "id": 54,
+    "name": "Shir-Barenj",
+    "country": "Afghanistan",
+    "description": "Cook the rice in milk and add suger and cardamom.",
+    "img": "img/shir-berenj.jpg",
+    "recipe": "Rice, sugar, milk, cardamom, zafron, cinnamon"
   }
 ]
