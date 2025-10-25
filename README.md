@@ -14,7 +14,7 @@ A simple, static website that showcases popular sweet recipes and highlights the
 
 ## 🚀 Quick Start
 
-1. Clone or download this repo
+1. Clone this repo
    ```bash
    git clone https://github.com/scriptism/My-Cookies-Website
    ```
