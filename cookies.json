@@ -398,5 +398,13 @@
     "description": "Cook the rice in milk and add suger and cardamom.",
     "img": "img/shir-berenj.jpg",
     "recipe": "Rice, sugar, milk, cardamom, zafron, cinnamon"
+  },
+  {
+    "id": 55,
+    "name": "Shir-Asal",
+    "country": "Afghanistan",
+    "description": "we need honey and milk for this",
+    "img": "img/shir-berenj.jpg",
+    "recipe": "????"
   }
 ]
