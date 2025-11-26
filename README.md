@@ -1,4 +1,4 @@
-# Learn to use git
+# I made this webpage to learn to use git
 
 # 🍪 Confictionary Website
 
