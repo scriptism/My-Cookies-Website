@@ -2,7 +2,7 @@
 
 # 🍪 Confictionary Website
 
-Static website that showcases popular sweet and cookie recipes and highlights the premium grains used in every cookie and confection.
+A static website that showcases popular sweet and cookie recipes and highlights the premium grains used in every cookie and confection.
 
 ## 🧁 What You’ll Find:
 
