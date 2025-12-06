@@ -74,6 +74,14 @@ p {
   margin-bottom: 6px;
 }
 
+/* ------search-------- */
+.search {
+  padding: 8px 12px;
+  border: 1px solid #bbb;
+  border-radius: 4px;
+  width: 220px;
+  font-size: 1rem;
+}
 /* ---- button ---- */
 .btn {
   display: block;
