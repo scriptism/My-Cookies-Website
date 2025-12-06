@@ -6,7 +6,7 @@ let currentIdx = 0;
 let allCookies = [];
 let filtered = [];
 
-/* ---------- fetch ---------- */
+/* --------- fetch --------- */
 fetch("cookies.json")
   .then((r) => r.json())
   .then((data) => {
