@@ -17,6 +17,7 @@ fetch("cookies.json")
   .catch((err) => console.error(err));
 
 /* ---------- card ---------- */
+
 function makeCard(c) {
   const li = document.createElement("li");
   li.innerHTML = `
